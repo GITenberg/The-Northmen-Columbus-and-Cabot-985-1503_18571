@@ -1,0 +1,38 @@
+_repo: The-Northmen-Columbus-and-Cabot-985-1503_18571
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Olson, Julius E.
+    alias: Olson, Julius Emil
+    gutenberg_agent_id: '8123'
+    url: http://www.gutenberg.org/2009/agents/8123
+  - agent_name: Bourne, Edward Gaylord
+    birthdate: 1860
+    deathdate: 1908
+    gutenberg_agent_id: '5446'
+    url: http://www.gutenberg.org/2009/agents/5446
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2006-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18571'
+  lccn: 06036882
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- Norse -- Early works to 1800'
+- !lcsh 'America -- Discovery and exploration -- Spanish -- Early works to 1800'
+- !lcsh 'Columbus, Christopher'
+- !lcsh 'America -- Discovery and exploration -- British -- Early works to 1800'
+- !lcc 'E011'
+- !lcsh 'Cabot, John, -1498?'
+tableOfContents: The voyages of the Northmen / edited by Julius E. Olson -- The voyages
+  of Columbus and of John Cabot / edited by Edward Gaylord Bourne.
+title: The Northmen, Columbus and Cabot, 985-1503
+url: http://www.gutenberg.org/ebooks/18571
